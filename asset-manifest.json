@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bootstrap-react/static/css/main.1701b0bc.css",
+    "main.js": "/bootstrap-react/static/js/main.a0927628.js",
+    "static/js/787.93c0ff9f.chunk.js": "/bootstrap-react/static/js/787.93c0ff9f.chunk.js",
+    "static/media/dogs-bg.png": "/bootstrap-react/static/media/dogs-bg.c97081e21b2bbbb3c101.png",
+    "index.html": "/bootstrap-react/index.html",
+    "main.1701b0bc.css.map": "/bootstrap-react/static/css/main.1701b0bc.css.map",
+    "main.a0927628.js.map": "/bootstrap-react/static/js/main.a0927628.js.map",
+    "787.93c0ff9f.chunk.js.map": "/bootstrap-react/static/js/787.93c0ff9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1701b0bc.css",
+    "static/js/main.a0927628.js"
+  ]
+}
